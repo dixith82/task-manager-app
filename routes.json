@@ -1,0 +1,7 @@
+﻿{
+  "/api/v1/*": "/$1",
+  "/auth/register": "/users",
+  "/auth/login": "/login",
+  "/auth/me": "/me",
+  "/tasks": "/tasks"
+}

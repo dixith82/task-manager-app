@@ -1,0 +1,4 @@
+pages/
+.next/
+node_modules/
+*.log
